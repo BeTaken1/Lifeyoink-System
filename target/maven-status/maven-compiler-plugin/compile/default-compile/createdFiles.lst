@@ -1,0 +1,5 @@
+dev\betaken\lifestealsmp\Main.class
+dev\betaken\lifestealsmp\commands\WithDrawCommand.class
+dev\betaken\lifestealsmp\recipe\RecipeManager.class
+dev\betaken\lifestealsmp\util\ChatUtil.class
+dev\betaken\lifestealsmp\listeners\PlayerListener.class

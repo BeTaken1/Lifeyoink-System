@@ -1,0 +1,8 @@
+name: LifestealSMP
+version: ${project.version}
+main: dev.betaken.lifestealsmp.Main
+api-version: 1.17
+authors: [ BeTaken ]
+commands:
+  withdraw:
+    description: With Draw Hearts!
